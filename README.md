@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aleksandr and I'm a business analyst from Germany!</p>
+<p align="left">My name is Aleksandr and I'm a data & business analyst, exploring business approaches in central europe!</p>
 
 ###
 
