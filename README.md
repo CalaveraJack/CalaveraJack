@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Analysing unanalysable since 2022<br>📚 I'm currently learning Python and RNN forecasting<br>🎯 Goals: to achieve mastery of time series in Python and R<br>🎲 Fun fact: I was a quite decent journalist before, however it was much less fun 😊 </p>
+<p align="left">✨ Analysing unanalysable since 2022<br>📚 I'm currently learning Python and RNN forecasting<br>🎯 Goals: to achieve mastery of time series in Python and R<br>🎲 Fun fact: I was quite a decent journalist before, however it was much less fun 😊 </p>
 
 ###
 
