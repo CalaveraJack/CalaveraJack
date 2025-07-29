@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aleksandr and I'm a data & business analyst, exploring business approaches in central europe!</p>
+<p align="left">My name is Aleksandr and I'm a data analyst in finance, exploring derivatives, forecasting and ML!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Analysing unanalysable since 2022<br>📚 I'm currently learning Python and RNN forecasting<br>🎯 Goals: to achieve mastery of time series in Python and R<br>🎲 Fun fact: I was quite a decent journalist before, however it was much less fun 😊 </p>
+<p align="left">✨ Analysing unanalysable since 2022<br>📚 I'm currently learning Derivatives modelling and algotrading.<br>🎯 Goals: to achieve mastery of greek calculation and multi-dimensional derivative modelling<br>🎲 Fun fact: I was quite a decent journalist before, however it was much less fun 😊 </p>
 
 ###
 
