@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Analysing unanalysable since 2022<br>📚 I'm currently learning Derivatives modelling and algotrading.<br>🎯 Goals: to achieve mastery of greek calculation and multi-dimensional derivative modelling<br>🎲 Fun fact: I was quite a decent journalist before, however it was much less fun 😊 </p>
+<p align="left">✨ Analysing unanalysable since 2022<br>📚 I'm currently learning how to develop and test quantamental strategies.<br>🎯 Goals: to create a Portfolio Analytics and Backtesting platform with quantamental functionality<br>🎲 Fun fact: I was quite a decent journalist before, however it was much less fun 😊 </p>
 
 ###
 
